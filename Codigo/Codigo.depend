@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1561678064 source:c:\users\sony\desktop\codigo\buscalargura.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1561677445 c:\users\sony\desktop\codigo\fila.h
+
+1561677496 source:c:\users\sony\desktop\codigo\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1561679399 source:c:\users\sony\desktop\codigo\ford-fulkerson.c
+	<stdio.h>
+	<stdlib.h>
+	"Ford-Fulkerson.h"
+	"buscaLargura.h"
+
+1561677390 c:\users\sony\desktop\codigo\ford-fulkerson.h
+
+1561677431 c:\users\sony\desktop\codigo\buscalargura.h
+
+1561679087 source:c:\users\sony\desktop\codigo\main.c
+	"Ford-Fulkerson.h"
+	<stdio.h>
+	<stdlib.h>
+
